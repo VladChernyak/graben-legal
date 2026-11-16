@@ -50,7 +50,7 @@ header.site {
   text-decoration: none;
 }
 
-.logo span { color: var(--accent); }
+.logo img { display: block; height: 21px; width: auto; }
 
 nav.lang {
   display: flex;
